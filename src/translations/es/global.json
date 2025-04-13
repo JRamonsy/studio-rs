@@ -1,0 +1,33 @@
+{
+	"Title": {
+		"welcome": "BIENVENIDO A"
+	},
+	"Presentation": {
+    "line-1": "HOLA, MI NOMBRE ES",
+    "line-3": "SOY INGENIERO UNDUSTRIAL &",
+    "line-4": "DESARROLLADOR FULL-STACK"
+  },
+  "Mtto": {
+    "line-1": "Desafortunadamente estamos en Mantenimiento,",
+    "line-2": "pero puedes dejarme un mensaje",
+    "line-3": "y me pondré en contacto contigo lo antes posible."
+  },
+  "Form": {
+    "name": "NOMBRE",
+    "email": "CORREO",
+    "subject": "ASUNTO",
+    "message": "MENSAJE",
+    "send": "ENVIAR",
+    "your-name": "tu nombre",
+    "your-email": "tu correo",
+    "your-subject": "tu asunto",
+    "your-message": "tu mensaje"
+  },
+	"WhatsApp": {
+    "line-1": "O si prefieres, envíame un mensaje por WhatsApp.",
+    "button": "Abrir WhatsApp"
+  },
+  "Footer": {
+    "line-1": "MUY PRONTO!!!"
+  }
+}

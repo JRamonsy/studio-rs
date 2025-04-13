@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;    
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p,
+ul, ol, li,
+figure,
+blockquote,
+dl, dd {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* body {
+  background-color: #242424;
+} */
+
+.font-Audiowide {
+    font-family: 'Audiowide', sans-serif;
+}
+
+.font-Bruno {
+  font-family: 'Bruno Ace SC', sans-serif;
+}
+
+
