@@ -40,8 +40,8 @@ const NavBar = () => {
 				<img
 					src={
 						darkMode
-							? "/logo RS dark theme.png"
-							: "/logo RS Light theme.png"
+							? "/logo-RS-dark-theme.png"
+							: "/logo-RS-Light-theme.png"
 					}
 					alt="Logo"
 					className={`transition-all duration-500 rounded-[10px] shadow-xl ${isScrolled ? "w-16 lg:w-24" : "w-60 lg:w-80"

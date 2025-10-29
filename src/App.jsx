@@ -32,10 +32,10 @@ const Content = () => {
     <div className='dark:bg-[#242424] dark:text-white'>
       <NavBar />
       <section className='bg-cyan-5000 h-auto pt-48  w-auto flex flex-col items-center justify-center 
-      xl:pt-58'>
+      xl:pt-58 px-10 md:px-20 xl:px-30 '>
 
-        <h1 className='text-slate-700 dark:text-slate-300 text-5xl text-center font-mono font-extrabold lg:text-9xl'>
-          {t("Title.welcome")} <br /> STUDIO RS
+        <h1 className='text-slate-700 dark:text-slate-300 text-5xl text-center font-mono font-extrabold md:text-7xl xl:text-9xl'>
+          {t("Title.welcome")} RS
         </h1>
       </section>
 
