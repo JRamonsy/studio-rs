@@ -35,7 +35,7 @@ const Content = () => {
       xl:pt-58 px-10 md:px-20 xl:px-30 '>
 
         <h1 className='text-slate-700 dark:text-slate-300 text-5xl text-center font-mono font-extrabold md:text-7xl xl:text-9xl'>
-          {t("Title.welcome")} RS
+          {t("Title.welcome")}
         </h1>
       </section>
 
